@@ -7,7 +7,7 @@
   
   **팝업스토어에 관련된 정보를 교환하고 경험을 공유하는 커뮤니티 플랫폼**
   
-  **[🚀 서비스 바로가기](popular-elice.store)**
+  **[🚀 서비스 바로가기](http://popular-elice.store/)**
 
 <br />
 
