@@ -37,7 +37,7 @@
 | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/98197264?v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/124250465?v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/130922304?v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/103472777?v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/99083803?v=4" alt="mingyu" width="150" height="150"> |
 |  [이준석](https://github.com/leeleeleeleejun)     |  [김영채](https://github.com/0chae01)    |   [김서연](https://github.com/StrawSunny)            |  [박정민](https://github.com/jungsmins)             |[김민규](https://github.com/Cobocho)|
-|  커뮤니티 페이지 <br> 포스팅 페이지  | 마이 페이지 <br> 로그인 페이지 <br> 회원가입 페이지 |  검색 페이지 <br> 스토어 상세 페이지 |  메인 페이지 <br> 프로필페이지   | 지도 페이지 <br> 관리자 페이지 <br> 배포 |
+|  커뮤니티 페이지 <br> 포스팅 페이지  | 마이 페이지 <br> 로그인 페이지 <br> 회원가입 페이지 |  메인 페이지 <br> 프로필페이지 |  검색 페이지 <br> 스토어 상세 페이지   | 지도 페이지 <br> 관리자 페이지 <br> 배포 |
 
 <br>
 
